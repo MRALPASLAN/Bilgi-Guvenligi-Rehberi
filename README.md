@@ -1,1 +1,1 @@
-# Bilgi-G-venli-i-Rehberi
+# Bilgi-Guvenligi-Rehberi
