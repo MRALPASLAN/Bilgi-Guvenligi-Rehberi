@@ -4,8 +4,6 @@
 
 | BİLGİ VE İLETİŞİM GÜVENLİĞİ REHBERİ | Sayfa |
 |:---|:---:|
-| KISALTMALAR | 5 |
-| TANIMLAR | 7 |
 | 1. GİRİŞ | 11 |
 | 1.1. Amaç ve Kapsam | 11 |
 | 1.2. Rehberin İçeriği ve Güncelleme Süreci | 12 |
